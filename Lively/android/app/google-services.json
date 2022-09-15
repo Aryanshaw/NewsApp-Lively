@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756588651626",
+    "project_id": "lively-f4229",
+    "storage_bucket": "lively-f4229.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756588651626:android:588ac6e7ea96e1b653d613",
+        "android_client_info": {
+          "package_name": "com.lively"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756588651626-ddqlcl57ctu74ebt4peh52de2lcnbidv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQXi7jK3GWeDU1OHFY9eJcgyKTpIiBPQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756588651626-ddqlcl57ctu74ebt4peh52de2lcnbidv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
